@@ -3,7 +3,7 @@
 ## List of members 
 
 - Mike
-- Laurah
+- Laurah [Laurah's profile](https://github.com/Nyasita)
 - Joshua
 - David Nene
 - New Member
